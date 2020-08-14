@@ -1,3 +1,1 @@
-# testing
-
-this is my first github repository
+hi this is read
